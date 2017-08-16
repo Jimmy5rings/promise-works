@@ -2,7 +2,10 @@
   <article class="cf pa3 pa4-m pa4-l">
     <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
     {{ .Content }}
+    {{ partial "facebook.html" . }}
   </div>
+
+
   </article>
   {{/* D5fine a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
