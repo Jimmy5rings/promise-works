@@ -18,7 +18,7 @@ It costs approximately £1,500 a year to support the average mentoring relations
 
 If you register with Easyfundraising, PROMISEworks could receive a small donation whenever you shop online at over 2,500 retailers!   It takes only a couple of minutes to register and it costs you nothing extra – the retailer pays a small commission.  You will need to register PROMISEworks (all one word) as your chosen cause.  If you sign up for their ‘Find and Remind’ service, you’ll never miss an opportunity to donate and you’ll be given a running total of how much has been raised (by you personally and overall).
 
-<a href="http://promiseworks.org.uk/?page_id=1321"><img src="../images/easyfundraising-logo-300x58.png" style="width:auto"></a>
+<a href="/easyfundraising"><img src="../images/easyfundraising-logo-300x58.png" style="width:auto"></a>
 
 ## Donate online through Just Giving
 

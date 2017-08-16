@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: Delivering inspirational mentoring for young people in Somerset
-featured_image : "../images/waves-35-960x420.jpg"
+featured_image : "../images/mentoring1.jpg"
 
 ---
 # Contact us
