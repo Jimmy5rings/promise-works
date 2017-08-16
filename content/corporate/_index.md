@@ -5,9 +5,9 @@ featured_image : "../images/glastonbury.jpg"
 
 ---
 
-# Corporate support Jimmy
+# Corporate support
 
-<img src="../images/Business.jpg" style="width:auto"/>
+<img src="../images/Business.jpg" style="width:auto"/> 
 
 We are currently seeking companies within Somerset that would like to support a really worthwhile local charity.  It costs just £8-900 per year to fund the average relationship.  If you could help with raising funds then please contact us.
 
