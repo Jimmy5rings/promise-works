@@ -1,0 +1,25 @@
+---
+title: "Contact"
+description: "Delivering inspirational mentoring for young people in Somerset"
+featured_image : "../images/waves-35-960x420.jpg"
+
+---
+# Contact us
+
+### For more information about PROMISEworks
+
+&nbsp;&nbsp;&nbsp;&nbsp;Email: **info@promiseworks.org.uk**
+
+### For more information about becoming a Mentor:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Email: **mentoring@promiseworks.org.uk**
+
+### Or:
+
+   &nbsp;&nbsp;&nbsp;&nbsp;**phone us on 0300 3651900**
+
+   &nbsp;&nbsp;&nbsp;&nbsp;**write to us at Tilham Farm, Baltonsborough, Glastonbury, BA6 8QA**
+
+<br>
+
+<div id="otfacebook-2" class="widget ot-facebook shadow-little"><div class="fb-widget"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="https://www.facebook.com/PROMISEworks" width="300" connections="10" stream="false" border_color="#fff" header="false" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;connections=10&amp;container_width=0&amp;header=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FPROMISEworks&amp;locale=en_US&amp;sdk=joey&amp;stream=false&amp;width=300"><span style="vertical-align: bottom; width: 300px; height: 214px;"><iframe name="f37285fcb477f58" width="300px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like_box Facebook Social Plugin" src="https://www.facebook.com/plugins/like_box.php?app_id=&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df2b7abf121cf4a4%26domain%3Dpromiseworks.org.uk%26origin%3Dhttp%253A%252F%252Fpromiseworks.org.uk%252Ff34b6c9844e8a0c%26relation%3Dparent.parent&amp;connections=10&amp;container_width=0&amp;header=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FPROMISEworks&amp;locale=en_US&amp;sdk=joey&amp;stream=false&amp;width=300" style="border: none; visibility: visible; width: 300px; height: 214px;" class=""></iframe></span></fb:like-box></div></div>

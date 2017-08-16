@@ -1,5 +1,5 @@
 ---
-title: "About PROMISEworks"
+title: "About"
 description: "Delivering inspirational mentoring for young people in Somerset"
 featured_image : "../images/subpage_image13.jpg"
 
